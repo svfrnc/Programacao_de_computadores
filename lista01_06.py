@@ -1,0 +1,8 @@
+v1 , v2=input().split()
+p1 , p2=input().split()
+valor1=int(v1)
+valor2=int(v2)
+p1=int(p1)
+p2=int(p2)
+mp=(((valor1*p1)+(valor2*p2))//(p1+p2))
+print(mp)
