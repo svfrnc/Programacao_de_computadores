@@ -1,0 +1,6 @@
+NOME=input()
+H=int(input())
+VH=float(input())
+Valor=(H*VH)
+print(NOME)
+print(f"R$ {Valor:.2f}")
